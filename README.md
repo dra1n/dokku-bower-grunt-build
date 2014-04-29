@@ -10,5 +10,5 @@ modules other than grunt-cli should be specified in Gruntfile.js.
 On your dokku server run:
 ```sh
 cd /var/lib/dokku/plugins
-git clone https://github.com/dra1n/dokku-bower-grunt-build.git
+git clone https://github.com/dra1n/dokku-bower-grunt-build.git bower-grunt-build
 ```
